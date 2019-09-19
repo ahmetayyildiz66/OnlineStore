@@ -1,0 +1,12 @@
+C:\Users\MONSTER\Desktop\OnlineStore\OnlineStore.Core.Common.LoggingService\bin\Debug\netstandard2.0\OnlineStore.Core.Common.LoggingService.deps.json
+C:\Users\MONSTER\Desktop\OnlineStore\OnlineStore.Core.Common.LoggingService\bin\Debug\netstandard2.0\OnlineStore.Core.Common.LoggingService.dll
+C:\Users\MONSTER\Desktop\OnlineStore\OnlineStore.Core.Common.LoggingService\bin\Debug\netstandard2.0\OnlineStore.Core.Common.LoggingService.pdb
+C:\Users\MONSTER\Desktop\OnlineStore\OnlineStore.Core.Common.LoggingService\bin\Debug\netstandard2.0\OnlineStore.Core.Common.Contracts.dll
+C:\Users\MONSTER\Desktop\OnlineStore\OnlineStore.Core.Common.LoggingService\bin\Debug\netstandard2.0\OnlineStore.Core.Common.Contracts.pdb
+C:\Users\MONSTER\Desktop\OnlineStore\OnlineStore.Core.Common.LoggingService\obj\Debug\netstandard2.0\OnlineStore.Core.Common.LoggingService.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\OnlineStore\OnlineStore.Core.Common.LoggingService\obj\Debug\netstandard2.0\OnlineStore.Core.Common.LoggingService.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\OnlineStore\OnlineStore.Core.Common.LoggingService\obj\Debug\netstandard2.0\OnlineStore.Core.Common.LoggingService.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\OnlineStore\OnlineStore.Core.Common.LoggingService\obj\Debug\netstandard2.0\OnlineStore.Core.Common.LoggingService.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\OnlineStore\OnlineStore.Core.Common.LoggingService\obj\Debug\netstandard2.0\OnlineStore.Core.Common.LoggingService.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\OnlineStore\OnlineStore.Core.Common.LoggingService\obj\Debug\netstandard2.0\OnlineStore.Core.Common.LoggingService.dll
+C:\Users\MONSTER\Desktop\OnlineStore\OnlineStore.Core.Common.LoggingService\obj\Debug\netstandard2.0\OnlineStore.Core.Common.LoggingService.pdb
